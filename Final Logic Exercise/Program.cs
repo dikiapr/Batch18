@@ -80,18 +80,18 @@ class FooBarGenerator
 
         for (int i = 1; i <= n; i++)
         {
-            string output = "";
+            string resultText = "";
 
             foreach (var rule in _rules)
             {
                 if (i % rule.divisor == 0)
-                    output += rule.output;
+                    resultText += rule.output;
             }
 
-            if (output == "")
-                output = i.ToString();
+            if (resultText == "")
+                resultText = i.ToString();
 
-            results.Add(output);
+            results.Add(resultText);
         }
 
         return string.Join(", ", results);
