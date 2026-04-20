@@ -1,0 +1,15 @@
+C:\Batch18\Final Logic Exercise\bin\Debug\net8.0\Final Logic Exercise.exe
+C:\Batch18\Final Logic Exercise\bin\Debug\net8.0\Final Logic Exercise.deps.json
+C:\Batch18\Final Logic Exercise\bin\Debug\net8.0\Final Logic Exercise.runtimeconfig.json
+C:\Batch18\Final Logic Exercise\bin\Debug\net8.0\Final Logic Exercise.dll
+C:\Batch18\Final Logic Exercise\bin\Debug\net8.0\Final Logic Exercise.pdb
+C:\Batch18\Final Logic Exercise\obj\Debug\net8.0\Final Logic Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Batch18\Final Logic Exercise\obj\Debug\net8.0\Final Logic Exercise.AssemblyInfoInputs.cache
+C:\Batch18\Final Logic Exercise\obj\Debug\net8.0\Final Logic Exercise.AssemblyInfo.cs
+C:\Batch18\Final Logic Exercise\obj\Debug\net8.0\Final Logic Exercise.csproj.CoreCompileInputs.cache
+C:\Batch18\Final Logic Exercise\obj\Debug\net8.0\Final Logic Exercise.sourcelink.json
+C:\Batch18\Final Logic Exercise\obj\Debug\net8.0\Final Logic Exercise.dll
+C:\Batch18\Final Logic Exercise\obj\Debug\net8.0\refint\Final Logic Exercise.dll
+C:\Batch18\Final Logic Exercise\obj\Debug\net8.0\Final Logic Exercise.pdb
+C:\Batch18\Final Logic Exercise\obj\Debug\net8.0\Final Logic Exercise.genruntimeconfig.cache
+C:\Batch18\Final Logic Exercise\obj\Debug\net8.0\ref\Final Logic Exercise.dll
